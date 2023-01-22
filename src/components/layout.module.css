@@ -2,6 +2,7 @@
   margin: auto;
   max-width: 500px;
   font-family: sans-serif;
+  text-rendering: optimizeLegibility;
 }
 
 .heading {
@@ -20,4 +21,11 @@
 
 .nav-link-text {
   color: black;
+}
+
+.site-title {
+  font-size: 3rem;
+  color: gray;
+  font-weight: 700;
+  margin: 3rem 0;
 }
